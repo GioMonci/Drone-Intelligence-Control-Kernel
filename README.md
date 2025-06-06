@@ -9,6 +9,7 @@
 D.I.C.K. is a fully DIY drone platform:
 
 Built from scraps, 
+
 coded in caffeine, 
 and barely held together by hot glue and zip ties, 
 **D.I.C.K. will rise** — and hopefully not crash.
@@ -50,6 +51,7 @@ By using this code, you agree not to sue us when your drone flies into a neighbo
 
 ## 💌 Support
 If D.I.C.K. gave you joy, drop a star ⭐
+
 If D.I.C.K. disappointed you, welcome to open source.
 
 ---
